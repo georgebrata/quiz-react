@@ -10,6 +10,7 @@ $ git clone https://github.com/kyokidG/quiz-react.git
 $ cd quiz-react
 $ npm install
 $ npm start
+```
 
 # Be awesome!
 
